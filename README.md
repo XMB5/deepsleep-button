@@ -1,6 +1,6 @@
 # deepsleep-button
 
-Turns off servers and smart plugs with a button on an ESP8266. Designed to work with [deepsleep](https://github.com/XMB5/deepsleep).
+Send an HTTP request with a button on an ESP8266. Designed to work with [deepsleep](https://github.com/XMB5/deepsleep).
 
 ## Configuration
 
